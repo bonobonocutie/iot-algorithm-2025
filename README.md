@@ -88,7 +88,7 @@ Iot 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
     - 정렬
         - 퀵 정렬
         - 정렬 알고리즘 응용
-        <img src="../image/cupdog2.png" width="600">
+        <img src="./image/cupdog2.png" width="600">
 
     - 동적 계획법
 
