@@ -6,7 +6,7 @@ root = Tk()
 root.geometry('600x600')
 root.title('이미지 처리')
 
-photo = PhotoImage(file='../iot-python-2025/image/cupdog.png')
+photo = PhotoImage(file='../image/cupdog.png')
 
 photoAry = []
 h = photo.height() # 600

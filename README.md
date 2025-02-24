@@ -88,12 +88,12 @@ Iot 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
     - 정렬
         - 퀵 정렬
         - 정렬 알고리즘 응용
-        <img src="../iot-python-2025/image/dog.png" width="600">
+        <img src="../image/cupdog2.png" width="600">
 
     - 동적 계획법
 
 ## 8일차
 - 자료구조/알고리즘
-    - 검색 : [노트북](./day08//da01_search.ipynb)
+    - 검색 : [노트북](./day08/da01_search.ipynb)
         - 검색 구현 : [파이썬]()
     - 코딩테스트
